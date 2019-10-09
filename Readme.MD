@@ -1,1 +1,1 @@
-machine learning using python with logistic-reg to predict heart disease.
+## To predict Heart Diseases using Logistic Regression(ML) in python.
